@@ -1,11 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "openDoor": {
+    "code": "1001",
+    "message": "调用完成",
+    "data": {
+        "orderId": "111612415086701203318978515"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+}
 }
