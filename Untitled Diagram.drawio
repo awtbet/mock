@@ -1,1 +1,271 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T09:26:49.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.9" etag="gnclne9DfVINdWDQLy6k" type="github"><diagram id="zh3HE5Sqc07CFCUgCEnf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-14T10:37:59.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="n5iT0PRtkVcbhGce_FlW" version="14.2.9" type="github">
+  <diagram id="zh3HE5Sqc07CFCUgCEnf" name="Page-1">
+    <mxGraphModel dx="992" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-10" style="orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;rounded=0;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="171.4862084748621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/public-services-filledoutline/64/PARKING_METER-transportation-urban-city-128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-11" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;rounded=0;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="197.33164703331647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/public-services-filledoutline/64/PARKING_METER-transportation-urban-city-128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" vertex="1" parent="1">
+          <mxGeometry x="79" y="175" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" vertex="1" parent="1">
+          <mxGeometry x="79" y="200" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" vertex="1" parent="1">
+          <mxGeometry x="79" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-12" value="73 สถานีตรวจวัด" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="175" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-13" value="ข้อมูลจากการตรวจวัด&lt;br&gt;Air4Thai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-15" value="ข้อมูลจากการคาดการณ์&lt;br&gt;(ADPC)&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Asian Disaster Preparedness Center&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-16" target="6Dhc2FxLfwsOcZCqTkwx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="260" y="137.5" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-17" target="6Dhc2FxLfwsOcZCqTkwx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="328" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-18" target="6Dhc2FxLfwsOcZCqTkwx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-19" value="GreenAir4U API Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-20" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-24" value="ฐานข้อมูล" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-43" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="630" width="764.19" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="57.67471698113208" y="57.67441860465116" width="93.72093023255813" height="122.55813953488371" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-27" value="&lt;font color=&quot;#4d4d4d&quot;&gt;GreenAir4U API Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry y="201.86046511627904" width="187.44283018867924" height="28.83720930232558" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-30" value="ข้อมูลรายชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="288.37" width="161.63" height="43.26" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-43" source="6Dhc2FxLfwsOcZCqTkwx-26" target="6Dhc2FxLfwsOcZCqTkwx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-31" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="566.0438679245283" y="82.90697674418604" width="115.34943396226416" height="115.34883720930232" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-32" value="&lt;font face=&quot;Verdana&quot; color=&quot;#4d4d4d&quot;&gt;ฐานข้อมูล&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="529.9971698113208" y="219.88372093023256" width="187.44283018867924" height="28.83720930232558" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-33" value="ข้อมูลเฉลี่ย 24 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="288.37" y="82.91" width="161.63" height="46.86" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-43" source="6Dhc2FxLfwsOcZCqTkwx-26" target="6Dhc2FxLfwsOcZCqTkwx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-34" value="ข้อมูลการคาดการณ์&lt;br&gt;ล่วงหน้าราย 3 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="288.37" y="158.6" width="161.63" height="57.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-43" source="6Dhc2FxLfwsOcZCqTkwx-26" target="6Dhc2FxLfwsOcZCqTkwx-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-37" value="บันทึกค่าความผิดพลาด" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-43">
+          <mxGeometry x="288.37" y="252.33" width="161.63" height="47.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-43" source="6Dhc2FxLfwsOcZCqTkwx-26" target="6Dhc2FxLfwsOcZCqTkwx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-44" value="" style="endArrow=classic;html=1;strokeWidth=4;fontFamily=Verdana;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-43" target="6Dhc2FxLfwsOcZCqTkwx-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="142" as="sourcePoint" />
+            <mxPoint x="520" y="93.95000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="1080" width="669.0699999999999" height="335.61" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-48" value="ข้อมูลรายชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry width="221.01169951590595" height="59.15267916497692" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-49" value="ข้อมูลเฉลี่ย 24 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry y="113.36913152030115" width="221.01169951590595" height="64.07523221615392" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-50" value="ข้อมูลการคาดการณ์&lt;br&gt;ล่วงหน้าราย 3 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry y="216.8658094212976" width="221.01169951590595" height="78.8565651281604" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/education-filled-outline-8/64/Education-Filled_20-128.png;fontFamily=Verdana;align=center;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry x="464.9135546334717" y="27.34751695098332" width="79.30779915785163" height="79.30779915785163" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-72" source="6Dhc2FxLfwsOcZCqTkwx-48" target="6Dhc2FxLfwsOcZCqTkwx-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-72" source="6Dhc2FxLfwsOcZCqTkwx-49" target="6Dhc2FxLfwsOcZCqTkwx-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/education-filled-outline-8/64/Education-Filled_20-128.png;fontFamily=Verdana;align=center;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry x="472.1333886583679" y="216.8658094212976" width="79.30779915785163" height="79.30779915785163" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="6Dhc2FxLfwsOcZCqTkwx-72" source="6Dhc2FxLfwsOcZCqTkwx-50" target="6Dhc2FxLfwsOcZCqTkwx-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-67" value="&lt;font face=&quot;Verdana&quot; color=&quot;#4d4d4d&quot; style=&quot;font-size: 12px;&quot;&gt;ทุก 1 นาที&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry x="376.412022136538" y="106.66040401896556" width="256.307977863462" height="39.431303510720134" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-68" value="&lt;font color=&quot;#4d4d4d&quot; face=&quot;Verdana&quot;&gt;17.00 ทุกวัน&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="6Dhc2FxLfwsOcZCqTkwx-72">
+          <mxGeometry x="376.412022136538" y="296.17869648927984" width="256.307977863462" height="39.431303510720134" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-73" value="บันทึกค่าความผิดพลาด" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1685.4" width="213.35080594448536" height="62.924400000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-74" value="ชื่อสถานีเปลี่ยน" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="475.757438712847" y="1652.4" width="171.599361336281" height="52.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-73" target="6Dhc2FxLfwsOcZCqTkwx-74">
+          <mxGeometry x="110" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-75" value="โลเคชั่นเปลี่ยน" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="475.770638663719" y="1744.8" width="171.599361336281" height="52.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-73" target="6Dhc2FxLfwsOcZCqTkwx-75">
+          <mxGeometry x="110" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-76" value="ข้อมูลช้าเกิน 2 ชม." style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="475.757438712847" y="1837.2" width="171.599361336281" height="52.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-73" target="6Dhc2FxLfwsOcZCqTkwx-76">
+          <mxGeometry x="110" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-77" value="ไม่พบข้อมูลสถานี" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="475.770638663719" y="1560" width="171.599361336281" height="52.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-73" target="6Dhc2FxLfwsOcZCqTkwx-77">
+          <mxGeometry x="110" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-83" value="ข้อมูลรายชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="238.37" y="2189.99" width="161.63" height="43.26" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="2297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-84" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="36.043867924528286" y="2240.446976744186" width="115.34943396226416" height="115.34883720930232" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-85" value="&lt;font face=&quot;Verdana&quot; color=&quot;#4d4d4d&quot;&gt;ฐานข้อมูล&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-0.002830188679240564" y="2377.423720930233" width="187.44283018867924" height="28.83720930232558" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="2296.3299999999995" as="targetPoint" />
+            <mxPoint x="417" y="2296" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-86" value="ข้อมูลเฉลี่ย 24 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="238.37" y="2272.8999999999996" width="161.63" height="46.86" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-87" value="ข้อมูลการคาดการณ์&lt;br&gt;ล่วงหน้าราย 3 ชั่วโมง" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="238.37" y="2348.5899999999997" width="161.63" height="57.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658" y="2297.306406910358" as="sourcePoint" />
+            <mxPoint x="728" y="2296.6005420034107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-90" value="ระยะเวลาเกิน 90 วัน" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="486.65" y="2266.67" width="163.35" height="62.92" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_24-128.png;fillColor=#FF6666;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2245.46" width="101.26" height="101.26" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-122" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-100" target="6Dhc2FxLfwsOcZCqTkwx-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-100" target="6Dhc2FxLfwsOcZCqTkwx-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-100" target="6Dhc2FxLfwsOcZCqTkwx-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="627.93" y="2949.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-100" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="690.43" y="2730" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-116" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 14px;&quot;&gt;GreenAir4U API Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2701.16" width="187.44283018867924" height="28.83720930232558" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-117" value="ข้อมูลรายชั่วโมง ย้อนหลัง 2 วัน" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="352.06" y="2650" width="245.87" height="43.26" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-118" value="ข้อมูลเฉลี่ย 24 ชั่วโมง ย้อนหลัง 7 วัน" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="352.06" y="2732.91" width="245.87" height="46.86" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-119" target="6Dhc2FxLfwsOcZCqTkwx-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-119" value="ข้อมูลการคาดการณ์ล่วงหน้า&lt;br&gt;รายชั่วโมง ล่วงหน้า 3 วัน" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="352.06" y="2808.6" width="245.87" height="57.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-120" value="ข้อมูลการคาดการณ์ล่วงหน้า&lt;br&gt;เฉลี่ย 24 ชั่วโมง ล่วงหน้า 3 วัน&lt;br&gt;(จากการคำนวนการคาดการณ์ล่วงหน้ารายชั่วโมง)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2900" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="2769.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-126" value="" style="outlineConnect=0;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="69.92" y="2600" width="63.08" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-127" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 14px;&quot;&gt;Android/iOS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="31.46" y="2721" width="140" height="28.84" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Verdana;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6Dhc2FxLfwsOcZCqTkwx-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="2809.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Application-128.png;fillColor=#0066CC;fontFamily=Verdana;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2830" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6Dhc2FxLfwsOcZCqTkwx-131" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Web App&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="28" y="2970" width="140" height="28.84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
