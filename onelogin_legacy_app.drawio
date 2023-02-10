@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T08:22:06.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vIiqNH0HrUE63a4WGMg8" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T08:27:25.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zOwPiet5ZS6NpvTHC7-3" version="20.8.19" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="3221.5" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3221.5" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="0JAL39eOcJuFoZ2dBYce-30" value="6. Redirect to /home with token or session id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="513" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JAL39eOcJuFoZ2dBYce-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="250" width="760" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
