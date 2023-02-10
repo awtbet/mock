@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T04:58:16.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d09E0eLyEDFUgAXbPl5C" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T02:57:47.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="p-p7h-dp1MKIsDGo5SYu" version="20.8.15" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1183" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7d933b09d9755ecc-9">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="7d933b09d9755ecc-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="232.5" as="targetPoint" />
           </mxGeometry>
@@ -12,59 +12,62 @@
         <mxCell id="7d933b09d9755ecc-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="630" y="190" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-iJT23-KKCrA0qnWg1D5-1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="-iJT23-KKCrA0qnWg1D5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="362.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="630" y="320" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-iJT23-KKCrA0qnWg1D5-2">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="-iJT23-KKCrA0qnWg1D5-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="200" y="125" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-iJT23-KKCrA0qnWg1D5-3">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="-iJT23-KKCrA0qnWg1D5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="200" y="255" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-iJT23-KKCrA0qnWg1D5-4" target="-iJT23-KKCrA0qnWg1D5-6">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="-iJT23-KKCrA0qnWg1D5-4" target="-iJT23-KKCrA0qnWg1D5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="200" y="382.5" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-5" value="OneLogin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-5" value="OneLogin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-iJT23-KKCrA0qnWg1D5-6" target="-iJT23-KKCrA0qnWg1D5-5">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="-iJT23-KKCrA0qnWg1D5-6" target="-iJT23-KKCrA0qnWg1D5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-9" value="Windows Server Joined Domain&lt;br&gt;For AD Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-9" value="Windows Server Joined Domain&lt;br&gt;For AD Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="152.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-10" value="Ubuntu Server 22.04&lt;br&gt;For Docker with OpenLDAP, FreeRadius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-10" value="Ubuntu Server 22.04&lt;br&gt;For Docker with OpenLDAP, FreeRadius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="275" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-11" value="CentOS latest&lt;br&gt;For LDAP Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-11" value="CentOS latest&lt;br&gt;For LDAP Connector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="405" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-12" value="Existing AD Controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-12" value="Existing AD Controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="217.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-iJT23-KKCrA0qnWg1D5-13" value="Existing LDAP server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iJT23-KKCrA0qnWg1D5-13" value="Existing LDAP server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="347.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAf4_JRVeIejWi6tR2on-1" value="Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
