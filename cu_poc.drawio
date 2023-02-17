@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T02:57:47.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="p-p7h-dp1MKIsDGo5SYu" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T10:08:43.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GWhMY-_4zOnxZWCbIKp9" version="20.8.19" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="954" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,86 @@
         <mxCell id="-iJT23-KKCrA0qnWg1D5-13" value="Existing LDAP server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="347.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pAf4_JRVeIejWi6tR2on-1" value="Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pAf4_JRVeIejWi6tR2on-1" value="Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-1" value="OneLogin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-3" target="423CBsroFg5UieqTVit9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1210" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-4" target="423CBsroFg5UieqTVit9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1210" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-7" target="423CBsroFg5UieqTVit9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="770" y="970" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-8" target="423CBsroFg5UieqTVit9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1100" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-9" value="Existing AD Controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="997.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-10" value="Existing LDAP server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1127.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.241;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-12" target="423CBsroFg5UieqTVit9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="146.36" y="1020" width="98.64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=-0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-13" target="423CBsroFg5UieqTVit9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="365" y="997.5" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-14" target="423CBsroFg5UieqTVit9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-14" value="AD Connector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="423CBsroFg5UieqTVit9-15" target="423CBsroFg5UieqTVit9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-15" value="LDAP Connector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1114" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-16" value="Legacy App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="960" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-17" value="Firewall/NAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125.68" y="980" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-18" value="FreeRadius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-19" value="OpenLDAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265.68" y="1186" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-20" value="Map DC=chula,DC=ac,DC=th to DC=onelogin,DC=com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1237.5" width="190" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-26" value="VLDAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1475" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="423CBsroFg5UieqTVit9-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="890" width="960" height="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
