@@ -1,55 +1,40 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Sequence Diagram">
-    <mxGraphModel dx="1217" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="2" value="User" style="shape=umlActor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="30" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Web Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="Web Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Payment Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="ISP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="60" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7" edge="1" source="2" target="3" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8" edge="1" source="3" target="4" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9" edge="1" source="4" target="3" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="10" edge="1" source="3" target="4" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="11" edge="1" source="4" target="5" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="12" edge="1" source="5" target="4" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="13" edge="1" source="4" target="6" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="14" edge="1" source="6" target="4" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="15" edge="1" source="4" target="3" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="16" edge="1" source="3" target="2" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphएमएक्सग्राफ (mxGraph)>
+    <defaults as="default" id="defaultStyle">
+        <vertex style="shape=participant;whiteSpace=wrap;verticalLabelAlignment=middle">
+            <font style="fontSize=12"/>
+        </vertex>
+        <edge style="strokeColor=#7991B3;strokeWidth=2;fontColor=#000000;fontSize=12"/>
+    </defaults>
+    <graph autofit="1" id="0">
+        <vertex id="1" value="PC">
+            <port name="Open Web Portal" spot="bottom"/>
+        </vertex>
+        <vertex id="2" value="Web Portal">
+            <port name="Receive Purchase Request" spot="top"/>
+            <port name="Send Confirmation &amp; Credentials" spot="bottom"/>
+        </vertex>
+        <vertex id="3" value="Internet Service Provider (ISP)">
+            <port name="Process Purchase" spot="top"/>
+            <port name="Activate Internet Service" spot="bottom"/>
+        </vertex>
+        <vertex id="4" value="Internet">
+            <port name="Connect" spot="right"/>
+        </vertex>
+        <edge id="5" source="1:Open Web Portal" target="2:Receive Purchase Request">
+            <label x="0.5" y="0.5" style="verticalAlign=middle">Open Web Portal (Buy Internet Plan)</label>
+        </edge>
+        <edge id="6" source="2:Send Confirmation &amp; Credentials" target="3:Process Purchase">
+            <label x="0.5" y="0.5" style="verticalAlign=middle">Send Confirmation &amp; Payment Details</label>
+        </edge>
+        <edge id="7" source="3:Activate Internet Service" target="2:Send Confirmation &amp; Credentials">
+            <label x="0.5" y="0.5" style="verticalAlign=middle">Activate Internet Service &amp; Send Credentials</label>
+        </edge>
+        <edge id="8" source="2:Send Confirmation &amp; Credentials" target="1:Open Web Portal">
+            <label x="0.5" y="0.5" style="verticalAlign=middle">Receive Confirmation &amp; Login Credentials</label>
+        </edge>
+        <edge id="9" source="1:Open Web Portal" target="4:Connect">
+            <label x="0.5" y="0.5" style="verticalAlign=middle">Connect to Internet</label>
+        </edge>
+    </graph>
+</mxGraphएमएक्सग्राफ (mxGraph)>
