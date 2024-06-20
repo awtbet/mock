@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T03:43:05.107Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="o6IhAtG0jV9StYkIXhHv" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T03:46:08.643Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fvijHw1r62t1NhUYlrGF" version="24.5.5" type="github">
   <diagram name="Page-1" id="OQjiXmflaJWMlj4Q_x97">
     <mxGraphModel dx="1149" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
           <mxGeometry x="436" y="1215" width="113" height="33" as="geometry" />
         </mxCell>
         <mxCell id="usXnJbfVH1YQq9BXnYpf-46" value="Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1678" y="940" width="56" height="33" as="geometry" />
+          <mxGeometry x="1240" y="790" width="56" height="33" as="geometry" />
         </mxCell>
         <mxCell id="usXnJbfVH1YQq9BXnYpf-47" value="Accesses via Internet" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-46" target="usXnJbfVH1YQq9BXnYpf-41">
           <mxGeometry relative="1" as="geometry">
@@ -436,13 +436,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="usXnJbfVH1YQq9BXnYpf-184" value="Migrates to WAF functionality" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-170" target="usXnJbfVH1YQq9BXnYpf-153">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="usXnJbfVH1YQq9BXnYpf-184" value="Migrates to WAF functionality" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1215" y="-10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2522" y="1856" />
-              <mxPoint x="2522" y="1949" />
-              <mxPoint x="2960" y="1974" />
+              <mxPoint x="2522" y="1857" />
+              <mxPoint x="2522" y="1950" />
+              <mxPoint x="2960" y="1975" />
             </Array>
+            <mxPoint x="2389.800000000001" y="1813" as="sourcePoint" />
+            <mxPoint x="3266" y="2028.62" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="usXnJbfVH1YQq9BXnYpf-185" value="Migrates to" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.54;entryY=-0.01;rounded=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-166" target="usXnJbfVH1YQq9BXnYpf-152">
@@ -463,13 +466,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="usXnJbfVH1YQq9BXnYpf-187" value="Migrates to" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0.58;entryY=-0.01;rounded=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-167" target="usXnJbfVH1YQq9BXnYpf-154">
+        <mxCell id="usXnJbfVH1YQq9BXnYpf-187" value="Migrates to" style="curved=1;startArrow=none;endArrow=block;exitX=0.351;exitY=1.087;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-167" target="usXnJbfVH1YQq9BXnYpf-154">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3272" y="1856" />
-              <mxPoint x="3272" y="1949" />
-              <mxPoint x="2388" y="1974" />
+              <mxPoint x="3272" y="1832" />
+              <mxPoint x="3272" y="1925" />
+              <mxPoint x="2388" y="1950" />
             </Array>
+            <mxPoint x="3315.88" y="1788" as="sourcePoint" />
+            <mxPoint x="2364.0000000000005" y="1999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="usXnJbfVH1YQq9BXnYpf-188" value="Migrates to" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.58;entryY=-0.01;rounded=0;" edge="1" parent="1" source="usXnJbfVH1YQq9BXnYpf-167" target="usXnJbfVH1YQq9BXnYpf-153">
